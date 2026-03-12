@@ -29,7 +29,7 @@ void input ()
     }
 }
 
-void insertionsort(){   //procedur insertion sort
+void insertionsort(){   //procedur insertion sort 
     int temp;
     int j;
 
