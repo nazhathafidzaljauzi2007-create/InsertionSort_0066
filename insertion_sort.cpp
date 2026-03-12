@@ -8,7 +8,7 @@ void input ()
 {
     while (true)
     {
-        cout << "Masukkan Jumlah Data Pada Array : ";
+        cout << "Masukkan Jumlah Data Pada Array : "; 
         cin >> n;
 
         if (n <=20){
