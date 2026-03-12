@@ -20,7 +20,7 @@ void input ()
     }
     cout << endl;
     cout << "==========================================";
-    cout << "==========Masukkan Element Array==========";
+    cout << "==========Masukkan Element Array=========="; 
     cout << "==========================================" << endl;
 
     for (int i = 0; i < n; i++ ){
